@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
   <head>
     <title>ESP32 WITH MYSQL DATABASE</title>
